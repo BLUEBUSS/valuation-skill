@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(curl:*)",
+      "Bash(gh auth login:*)"
+    ]
+  }
+}
